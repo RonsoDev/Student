@@ -1,0 +1,4 @@
+
+Vsquid:S18542":Remove this useless assignment to local variable "header".(¾‘‹ˆþÿÿÿÿ
+{squid:S4165!"dRemove this useless assignment; "holder" already holds the assigned value along all execution paths.(Ž±¦Ò
+Gsquid:S14812"+Remove this unused "header" local variable.(¾‘‹ˆþÿÿÿÿ

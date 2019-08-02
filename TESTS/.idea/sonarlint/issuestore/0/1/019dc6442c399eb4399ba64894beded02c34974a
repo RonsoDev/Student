@@ -1,0 +1,8 @@
+
+Msquid:S1905,"*Remove this unnecessary cast to "Toolbar".(Б™ьЦэ€€€€8ушнЁь,
+Tsquid:S1905;"7Remove this unnecessary cast to "FloatingActionButton".(ЦУАG8ушнЁь,
+Osquid:S19053",Remove this unnecessary cast to "ViewPager".(ЧѓҐХы€€€€8ушнЁь,
+Jsquid:S19056",Remove this unnecessary cast to "TabLayout".(йЌна8ушнЁь,
+Яsquid:S1186g"АAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(і—Р∆8ушнЁь,
+|squid:S1450%"YRemove the "mViewPager" field and declare it as a local variable in the relevant methods.(’оµэъ€€€€8ушнЁь,
+Зsquid:S1450 "dRemove the "mSectionsPagerAdapter" field and declare it as a local variable in the relevant methods.(ЭЁ≈эю€€€€8ушнЁь,

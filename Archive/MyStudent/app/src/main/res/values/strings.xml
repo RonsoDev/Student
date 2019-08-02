@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">My Student</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_classes">הכיתות שלי</string>
+    <string name="add_zaharon">הוסף צהרונים</string>
+    <string name="delete_all">מחק את הכיתות שלי</string>
+
+
+
+    <string name="search_hint">חפש בית ספר</string>
+    <string name="search_hint_classes">חפש כיתה</string>
+    <string name="yes_dlg">כן</string>
+    <string name="no_dlg">, לא</string>
+    <string name="no_dlg_continue"> קח אותי לכיתות שלי</string>
+
+
+
+
+
+    <string name="title_activity_login">כניסה</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_classes">כיתות</string>
+    <string name="title_activity_students">רשימת ילדים</string>
+    <string name="title_activity_test">testActivity</string>
+
+
+</resources>

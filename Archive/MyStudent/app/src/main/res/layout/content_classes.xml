@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Classes"
+    tools:showIn="@layout/classes">
+
+
+    <SearchView
+        android:layout_width="360"
+        android:layout_height="50dp"
+        android:queryHint="@string/search_hint_classes"
+
+        tools:layout_editor_absoluteX="12dp"
+        tools:layout_editor_absoluteY="56dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="150dp"
+        android:layout_height="90dp"
+        android:background="@color/colorSecondary"
+        android:text="א 1"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="207dp"
+        tools:layout_editor_absoluteY="125dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="150dp"
+        android:layout_height="90dp"
+        android:background="@color/colorSecondary"
+        android:text="א 2"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="32dp"
+        tools:layout_editor_absoluteY="125dp" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="150dp"
+        android:layout_height="90dp"
+        android:background="@color/colorSecondary"
+        android:text="ב 1"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="32dp"
+        tools:layout_editor_absoluteY="238dp" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="150dp"
+        android:layout_height="90dp"
+        android:background="@color/colorSecondary"
+        android:text="ב 3"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="32dp"
+        tools:layout_editor_absoluteY="351dp" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="150dp"
+        android:layout_height="90dp"
+        android:background="@color/colorSecondary"
+        android:text="ב 2"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="207dp"
+        tools:layout_editor_absoluteY="351dp" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="150dp"
+        android:layout_height="90dp"
+        android:background="@color/colorSecondary"
+        android:text="א 3"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="207dp"
+        tools:layout_editor_absoluteY="238dp" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="186dp"
+        android:layout_height="40dp"
+        android:text="בית ספר ראשונים"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="99dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:elevation="2dp"
+        app:srcCompat="@drawable/ic_star_outline_white_18dp"
+        tools:layout_editor_absoluteX="157dp"
+        tools:layout_editor_absoluteY="190dp" />
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:elevation="2dp"
+        app:srcCompat="@drawable/ic_star_outline_white_18dp"
+        tools:layout_editor_absoluteX="157dp"
+        tools:layout_editor_absoluteY="303dp" />
+
+    <ImageView
+        android:id="@+id/imageView13"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:elevation="2dp"
+        app:srcCompat="@drawable/ic_star_outline_white_18dp"
+        tools:layout_editor_absoluteX="332dp"
+        tools:layout_editor_absoluteY="416dp" />
+
+    <ImageView
+        android:id="@+id/imageView14"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:elevation="2dp"
+        app:srcCompat="@drawable/ic_star_outline_white_18dp"
+        tools:layout_editor_absoluteX="332dp"
+        tools:layout_editor_absoluteY="303dp" />
+
+    <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:elevation="2dp"
+        android:tint="@color/colorAccent"
+        app:srcCompat="@drawable/ic_star_black_18dp"
+        tools:layout_editor_absoluteX="332dp"
+        tools:layout_editor_absoluteY="190dp" />
+
+    <ImageView
+        android:id="@+id/imageView15"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:elevation="2dp"
+        android:tint="@color/colorAccent"
+        app:srcCompat="@drawable/ic_star_black_18dp"
+        tools:layout_editor_absoluteX="157dp"
+        tools:layout_editor_absoluteY="416dp" />
+
+    <ImageView
+        android:id="@+id/imageView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_heart_multiple_white_48dp"
+        tools:layout_editor_absoluteX="182dp"
+        tools:layout_editor_absoluteY="461dp" />
+
+</android.support.constraint.ConstraintLayout>

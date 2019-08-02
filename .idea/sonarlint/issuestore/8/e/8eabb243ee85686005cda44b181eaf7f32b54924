@@ -1,0 +1,10 @@
+
+wsquid:S1450#"[Remove the "schoolListRV" field and declare it as a local variable in the relevant methods.(¹æ×ıÿÿÿÿ
+usquid:S1450$"YRemove the "schoolList" field and declare it as a local variable in the relevant methods.(ïĞÈ…ùÿÿÿÿ
+Ksquid:S1604Z"(Make this anonymous inner class a lambda(ôë³õûÿÿÿÿ8ı¾İœÄ-
+esquid:S1192f"NDefine a constant instead of duplicating this literal "×ª×œ ××‘×™×‘" 4 times.(˜Ôï²
+‡"squid:ClassVariableVisibilityCheck!"YMake myAppDatabase a static final constant or non-public and provide accessors if needed.(©Ô³ã
+xsquid:S1450%"aRemove the "mSchoolListAdapter" field and declare it as a local variable in the relevant methods.(€ÜÅ
+gsquid:CommentedOutCodeLineO"<This block of commented-out lines of code should be removed.(Ìä—œøÿÿÿÿ
+bsquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(¡×Ñâ
+Osquid:S1068+",Remove this unused "mContext" private field.(»úÅ¾øÿÿÿÿ8ïœ¾ŸÄ-

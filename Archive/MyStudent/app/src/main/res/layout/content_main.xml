@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".MainActivity"
+    tools:showIn="@layout/activity_main">
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="186dp"
+        android:layout_height="40dp"
+        android:text="צהרונים"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="99dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="150dp"
+        android:layout_height="90dp"
+        android:background="@color/colorSecondary"
+        android:text='"ראשונים"'
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="207dp"
+        tools:layout_editor_absoluteY="125dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="150dp"
+        android:layout_height="90dp"
+        android:background="@color/colorSecondary"
+        android:text='"ביאליק"'
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="34dp"
+        tools:layout_editor_absoluteY="125dp" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="150dp"
+        android:layout_height="90dp"
+        android:background="@color/colorSecondary"
+        android:text='"אשכול"'
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="34dp"
+        tools:layout_editor_absoluteY="231dp" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="150dp"
+        android:layout_height="90dp"
+        android:background="@color/colorSecondary"
+        android:text='"הס"'
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="34dp"
+        tools:layout_editor_absoluteY="335dp" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="150dp"
+        android:layout_height="90dp"
+        android:background="@color/colorSecondary"
+        android:text='"גן לבנה"'
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="207dp"
+        tools:layout_editor_absoluteY="335dp" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="150dp"
+        android:layout_height="90dp"
+        android:background="@color/colorSecondary"
+        android:text='"חנקין"'
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="207dp"
+        tools:layout_editor_absoluteY="231dp" />
+
+    <SearchView
+        android:layout_width="360dp"
+        android:layout_height="50dp"
+        android:queryHint="@string/search_hint"
+        tools:layout_editor_absoluteX="12dp"
+        tools:layout_editor_absoluteY="56dp" />
+
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="167dp"
+        android:layout_height="52dp"
+        android:background="@color/colorSecondary"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="109dp"
+        tools:layout_editor_absoluteY="445dp" />
+
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="163dp"
+        android:layout_height="wrap_content"
+        android:background="@color/colorBackground"
+        android:text="ייבא קובץ עדכון"
+        android:textColor="@color/colorSecondary"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="111dp"
+        tools:layout_editor_absoluteY="447dp" />
+
+</android.support.constraint.ConstraintLayout>

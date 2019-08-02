@@ -1,0 +1,5 @@
+
+ysquid:S00116I"[Rename this field "school_choose_bg" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û«ï08ï¨›ô°-
+ˆsquid:S00116K"dRename this field "school_choose_chkbox_full" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€»Æ‚ûÿÿÿÿ8ï¨›ô°-
+„squid:S00116J"eRename this field "school_choose_chkbox_empty" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²›Ò8ï¨›ô°-
+‡squid:S4165#"dRemove this useless assignment; "holder" already holds the assigned value along all execution paths.(ıÂØóûÿÿÿÿ8ÒÚŸÄ-

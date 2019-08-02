@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyStudentVP</string>
+    <string name="tlv">תל אביב</string>
+    <string name="hln">חולון</string>
+    <string name="rhvt">רחובות</string>
+
+</resources>

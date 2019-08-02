@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.solomonron.mystudent.MainActivity">
+
+    <item
+        android:id="@+id/myClasses"
+        android:orderInCategory="100"
+        android:title="@string/my_classes"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/addZaharon"
+        android:orderInCategory="100"
+        android:title="@string/add_zaharon"
+
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/deleteAll"
+        android:orderInCategory="100"
+        android:title="@string/delete_all"
+        app:showAsAction="never" />
+
+</menu>

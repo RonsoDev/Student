@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <SearchView
+        android:layout_width="360dp"
+        android:layout_height="50dp"
+        android:queryHint="@string/search_hint"
+        android:visibility="visible"
+        tools:layout_editor_absoluteX="12dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <Button
+        android:id="@+id/button13"
+        android:layout_width="300dp"
+        android:layout_height="51dp"
+        android:background="@color/colorSecondary"
+        android:text="רחובות"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="42dp"
+        tools:layout_editor_absoluteY="90dp" />
+
+    <Button
+        android:id="@+id/button14"
+        android:layout_width="300dp"
+        android:layout_height="51dp"
+        android:background="@color/colorSecondary"
+        android:text="גדרה"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="42dp"
+        tools:layout_editor_absoluteY="160dp" />
+
+    <Button
+        android:id="@+id/button15"
+        android:layout_width="300dp"
+        android:layout_height="51dp"
+        android:background="@color/colorSecondary"
+        android:text="ראשון לציון"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="42dp"
+        tools:layout_editor_absoluteY="230dp" />
+
+    <Button
+        android:id="@+id/button16"
+        android:layout_width="300dp"
+        android:layout_height="51dp"
+        android:background="@color/colorSecondary"
+        android:text="נס ציונה"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="42dp"
+        tools:layout_editor_absoluteY="300dp" />
+
+    <Button
+        android:id="@+id/button17"
+        android:layout_width="300dp"
+        android:layout_height="51dp"
+        android:background="@color/colorSecondary"
+        android:text="חולון"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="42dp"
+        tools:layout_editor_absoluteY="371dp" />
+
+    <Button
+        android:id="@+id/angry_btn4"
+
+        android:layout_width="120dp"
+        android:layout_height="45dp"
+
+        android:background="@drawable/button_finish"
+        android:shadowColor="#000000"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="0"
+        android:text="המשך"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="132dp"
+        tools:layout_editor_absoluteY="450dp" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/floatingActionButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        app:fabSize="normal"
+        app:srcCompat="@drawable/ic_plus_white_48dp"
+        tools:layout_editor_absoluteX="312dp"
+        tools:layout_editor_absoluteY="429dp" />
+
+</android.support.constraint.ConstraintLayout>
